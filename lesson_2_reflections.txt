@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+ 
+It helps to choose which files to commit. Like if you have changed three files,
+you can commit each of them individually, but putting them on staging area and then
+commiting one by one to repository.
