@@ -16,3 +16,8 @@ git init ## create repository
 git status ## shows which files have changed since last commit
 
 git add lesson1.txt #adds file to staging area
+
+git diff id1 id2 # commits in repository
+git diff # working directory and staging area
+git diff --staged # staging area and repository most recent commit
+git reset --hard #discard changes in both working directory and staging area
