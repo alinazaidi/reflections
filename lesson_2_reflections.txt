@@ -4,3 +4,7 @@ How is the staging area different from the working directory and the repository?
 It helps to choose which files to commit. Like if you have changed three files,
 you can commit each of them individually, but putting them on staging area and then
 commiting one by one to repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+put only files that are to be commited in staging area
+else commit selectively from staging area
