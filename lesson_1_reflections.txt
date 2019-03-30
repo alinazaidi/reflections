@@ -1,0 +1,18 @@
+FC file1.txt file2.txt
+mkdir version-control
+pwd # print working directory - shows what directory you are in
+ls  # list the files in this directory
+git --version
+## cloning
+download entire history and not just recent file
+git clone https://github.com/udacity/asteroids.git
+(open directory)
+git log
+(q to exit)
+git diff commit_old commit_new # shows changes made to old
+git checkout commit1
+ls -a
+git init ## create repository
+git status ## shows which files have changed since last commit
+
+git add lesson1.txt #adds file to staging area
