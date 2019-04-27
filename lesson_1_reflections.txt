@@ -31,3 +31,11 @@ git checkout branch_name
 
 else:
 git checkout -b branch_name
+
+###merging##
+git merge coco coins
+# commits are interleaves, so git diff would show too many changes, so :
+git show c32 # shows diff between c32 and its parent! 
+got branch -d coins # deletes label coins
+
+# git log n1 # only limited number of commits
