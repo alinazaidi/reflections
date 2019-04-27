@@ -25,6 +25,7 @@ git reset --hard #discard changes in both working directory and staging area
 git checkout master # switches to master branch
 git checkout f1bc # goes to this commit, any changes will overwirte this commit (maybe)
 
+git branch # list all branches
 git branch branch_name #creates a branch here
 git checkout branch_name
 
