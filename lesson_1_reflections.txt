@@ -21,3 +21,12 @@ git diff id1 id2 # commits in repository
 git diff # working directory and staging area
 git diff --staged # staging area and repository most recent commit
 git reset --hard #discard changes in both working directory and staging area
+
+git checkout master # switches to master branch
+git checkout f1bc # goes to this commit, any changes will overwirte this commit (maybe)
+
+git branch branch_name #creates a branch here
+git checkout branch_name
+
+else:
+git checkout -b branch_name

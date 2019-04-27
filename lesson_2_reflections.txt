@@ -8,3 +8,16 @@ commiting one by one to repository.
 How can you use the staging area to make sure you have one commit per logical change?
 put only files that are to be commited in staging area
 else commit selectively from staging area
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+If you are trying to make a differnt mode of yr project, if you are trying out a new feature
+or making app in another language
+Whenever context switching
+master branch is production quality branch, never breaksm always works. 
+experimental branch, unque featyure branch
+collaboration and merge later
+
+How do the diagrams help you visualize the branch structure?
+branches have nodes that canbe considered as pointers. Each node points to its parent. 
+Branch structure helps to see this sequence. 
