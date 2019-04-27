@@ -3,3 +3,4 @@ git remote # to list remote remote respositories on yr lappy
 git remote origin https://github//alina//reflections.git # create a repository called origin. could be something else besides origin
 git push origin master
 git remote -v # verbose
+#############
